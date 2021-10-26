@@ -1,0 +1,12 @@
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.lib.deps.json
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.lib.dll
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.lib.pdb
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.csprojAssemblyReference.cache
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CoreCompileInputs.cache
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfoInputs.cache
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.AssemblyInfo.cs
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.csproj.CopyComplete
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.dll
+C:\Users\Caike\Desktop\CURSO\DOTNET\GameTOP.lib\obj\Debug\netstandard2.0\GameTOP.lib.pdb
